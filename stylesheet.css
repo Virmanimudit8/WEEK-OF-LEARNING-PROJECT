@@ -1,0 +1,90 @@
+/* Reset CSS (DO NOT DELETE) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+  background-image: girl_book_glance_158900_1600x1200.jpg;
+}
+
+li {
+  list-style: none;
+}
+
+/* Write your code below */
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.codinginspiratione {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.list {
+  float: left;
+}
+
+.list li {
+  float: left;
+  padding: 33px 20px;
+}
+.main {
+	text-align: center;
+	padding-top:100px;
+}
+.main h1{
+	font-size:52px;
+}
+.main p{
+	font-size:36px;
+	padding:20px 50px;
+}
+.main span {
+	color:red;
+}
+.form{
+	
+  
+	font-size: 52px;
+	
+	
+	height:40px;
+	
+}
+button{
+    height: 30px;
+    background-color: orange;
+   
+    font-size: 12px;
+    
+    width: 5%;
+}
+button:hover{
+    background-color: darkorange;
+}
+footer{
+  padding:40px 40px;
+  background-color: #2f5167;
+  color: white;
+  height: 90px;
+  
+}
+.flist a{
+	color:#fff;
+}
+.list a{
+	color:#fff;
+}  
+.list.span a{
+	color:red;
+    }
+

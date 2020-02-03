@@ -1,0 +1,31 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	align-items: center;
+  font-family: "Avenir Next";
+  background-image: girl_book_glance_158900_1600x1200.jpg;
+  background-color: #2f5167;
+}
+h1{
+	text-align: center;
+	color:#fff;
+
+}
+p{
+	text-align: center;
+	color:#fff;
+}
+textarea{
+	
+	
+	padding-top: 80px;
+	padding-left:50%;
+	padding-right: 50%;
+	padding-bottom: 50%;
+}
